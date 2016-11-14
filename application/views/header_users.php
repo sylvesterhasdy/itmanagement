@@ -1,0 +1,1 @@
+<b><?php echo $user['npk'];?></b> Anda login sebagai Users > [<a href='<?php echo base_url('dashboard/logout');?>'>Keluar</a>]
